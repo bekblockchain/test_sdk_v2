@@ -1,0 +1,18 @@
+.item-value {
+  word-break: break-all;
+}
+
+.config-row {
+  gap: 8px;
+  display: flex;
+}
+
+.config-row .item-title {
+  width: 100px;
+}
+
+.module-title {
+  margin-top: 10px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
